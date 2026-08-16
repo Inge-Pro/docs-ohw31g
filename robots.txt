@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-cgs440.nuansa138win.cfd/sitemap.xml
